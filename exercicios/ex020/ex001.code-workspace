@@ -1,0 +1,61 @@
+{
+	"folders": [
+		{
+			"path": "../ex001"
+		},
+		{
+			"path": "../ex002"
+		},
+		{
+			"path": "../ex003"
+		},
+		{
+			"path": "../ex004"
+		},
+		{
+			"path": "../ex006"
+		},
+		{
+			"path": "../ex007"
+		},
+		{
+			"path": "../ex008"
+		},
+		{
+			"path": "../ex009"
+		},
+		{
+			"path": "../ex010"
+		},
+		{
+			"path": "../ex011"
+		},
+		{
+			"path": "../ex012"
+		},
+		{
+			"path": "../desafios"
+		},
+		{
+			"path": "../projeto"
+		},
+		{
+			"path": "../ex013"
+		},
+		{
+			"path": "../ex018"
+		},
+		{
+			"path": "../ex017"
+		},
+		{
+			"path": "../ex019"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ex001"
+	}
+}
